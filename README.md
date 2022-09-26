@@ -31,7 +31,7 @@ library.
 
 ## Quick start: 
 
-> python sync_script.py arg1 arg2 arg3 arg4 
+> python3 sync_script.py arg1 arg2 arg3 arg4 
 
 where: 
 
