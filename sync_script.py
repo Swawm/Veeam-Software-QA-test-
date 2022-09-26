@@ -67,9 +67,9 @@ while True:
         print('folder: OK')
         log('folder: OK')
     else:
-        print('folder is not exist')
-        log('folder is not exist')
-        print('please check your config file')
+        print('folder does not exist')
+        log('folder does not exist')
+        print('please check your args')
         break
 
     # check backup
@@ -77,9 +77,9 @@ while True:
         print('backup: OK')
         log('backup: OK')
     else:
-        print('backup is not exist')
-        log('backup is not exist')
-        print('please check your config file')
+        print('backup does not exist')
+        log('backup does not exist')
+        print('please check your args')
         break
 
     # check file hash in folder and compare with backup
