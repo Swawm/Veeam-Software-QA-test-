@@ -31,4 +31,12 @@ library.
 
 ## Quick start: 
 
-> python sync_script.py *folder_name* *backup_folder_name* *log_file name* *timesync interval*
+> python sync_script.py arg1 arg2 arg3 arg4 
+
+where: 
+
+arg1 = main folder path
+arg2 = backup folder path
+arg3 = log file path
+arg4 = time sync interval in ms
+
