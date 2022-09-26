@@ -36,7 +36,9 @@ library.
 where: 
 
 arg1 = main folder path
-arg2 = backup folder path
-arg3 = log file path
-arg4 = time sync interval in ms
 
+arg2 = backup folder path
+
+arg3 = log file path
+
+arg4 = time sync interval in ms
